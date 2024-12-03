@@ -1,11 +1,12 @@
 
-########################################decision making in python#####################################
+########################################decision making in python##################################### 
+import math
 
 
 
 # Decision Making Practice #1
 # Using the variables num1 and num2, which are fed with user input (just like in the provided code), create a flow control structure that compares the values of the variables, and returns a result according to the case:
-
+num1 = int(input)
 # "num1 is greater than num2"
 
 # "num2 is greater than num1"
@@ -36,6 +37,9 @@
 age = 16
 has_license = False
 
+if age > 18 and has_license == true:
+    print("You can drive")
+elif 
 "You can drive"
 
 "You can't drive yet. You must be 18 years old and have a license"
